@@ -1,5 +1,6 @@
-# Tugas Fuzzy Logic Kelompok
+# Tugas Kecerdasan Buatan
 
+_Tugas Kelompok: Fuzzy Logic_
 Anggota:
 
 1. Den Muhammad Wyzdan Alfarizy (2215061003)
